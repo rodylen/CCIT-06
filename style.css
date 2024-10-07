@@ -1,0 +1,47 @@
+#banner{
+    height: 90vh;
+    background: url(bg.jpg);
+    background-size: cover;
+}
+
+.btn {
+    padding: 15 px 30px;
+    border-radius: 60px;
+    font-size: 18px;
+    transition: all ,4s ease;
+}
+
+.btn-brand {
+    background-color: blue;
+    color:#FFF;
+    border: 3px solid #FFF;
+}
+
+.btn-brand:hover {
+    background-color: transparent;
+    border: 3px solid burlywood;
+    color: burlywood;
+}
+section{
+    padding: 100px 0px;
+}
+#about h2 {
+    font-size: 55px;
+    font-weight: 900;
+    color: rgb(255, 0, 149);
+    
+}
+
+#services {
+    background-color: #FAFAFA;
+
+}
+#services h3 {
+    font-size: 55px;
+    font-weight: 900;
+    color: rgb(255, 0, 170);
+}
+
+.ww{
+    width: 40%;
+}
